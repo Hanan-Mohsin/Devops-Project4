@@ -1,0 +1,8 @@
+(.devops) voclabs:~/environment/project-ml-microservice-kubernetes $ bash run_kubernetes.sh
+pod/project4 created
+pod/project4 condition met
+NAME       READY   STATUS    RESTARTS   AGE
+project4   1/1     Running   0          93s
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
